@@ -1,2 +1,2 @@
-require("luwe.core")
-require("luwe.lazy")
+require("config.core")
+require("config.lazy")
